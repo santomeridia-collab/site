@@ -161,7 +161,7 @@ const Contact = () => {
                   {/* International Liaison: London, United Kingdom<br /> */}
                   {/* ✉ <a href="mailto:uk.infohub@santomeridia.com" className="text-primary hover:underline">uk.infohub@santomeridia.com</a> */}
                 </p>
-              {/* </div> */} */
+              {/* </div> */} 
             </div>
 
             {/* Social Links */}

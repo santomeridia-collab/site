@@ -154,14 +154,14 @@ const Contact = () => {
                 </p>
               </div>
 
-              <div className="p-6 rounded-xl bg-card border border-border shadow-card">
-                <h3 className="text-2xl font-bold mb-3">🇬🇧 United Kingdom Office</h3>
+              {/* <div className="p-6 rounded-xl bg-card border border-border shadow-card">
+                {/* <h3 className="text-2xl font-bold mb-3">🇬🇧 United Kingdom Office</h3> */}
                 <p className="text-muted-foreground">
-                  <strong>Santomeridia Research Labs Ltd.</strong> (in progress)<br />
-                  International Liaison: London, United Kingdom<br />
-                  ✉ <a href="mailto:uk.infohub@santomeridia.com" className="text-primary hover:underline">uk.infohub@santomeridia.com</a>
+                  {/* <strong>Santomeridia Research Labs Ltd.</strong> (in progress)<br /> */}
+                  {/* International Liaison: London, United Kingdom<br /> */}
+                  {/* ✉ <a href="mailto:uk.infohub@santomeridia.com" className="text-primary hover:underline">uk.infohub@santomeridia.com</a> */}
                 </p>
-              </div>
+              {/* </div> */} */
             </div>
 
             {/* Social Links */}

@@ -139,9 +139,11 @@ const About = () => {
             <h2 className="text-4xl font-bold">Our Global Identity</h2>
             <Globe className="h-12 w-12 text-primary mx-auto mb-4" />
             <p className="text-lg text-muted-foreground">
-              Santomeridia stands as a collective identity of <strong>Santomeridia India</strong> (under registration) 
+              <strong>Santomeridia Global</strong> functions as the consolidated identity for 
+      Santomeridia’s international offices and strategic operations worldwide.
+              {/* Santomeridia stands as a collective identity of <strong>Santomeridia India</strong> (under registration) 
               and <strong>Santomeridia UK</strong> (in progress) — symbolizing our growing international presence 
-              and shared commitment to innovation and excellence.
+              and shared commitment to innovation and excellence. */}
             </p>
           </div>
         </section>

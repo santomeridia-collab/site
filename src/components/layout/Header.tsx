@@ -28,8 +28,6 @@ const Header = () => {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      
-
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
@@ -46,7 +44,8 @@ const Header = () => {
               <div className="text-xs text-muted-foreground">Where Innovation Meets Impact</div>
             </div>
             <div className="lg:hidden">
-              <div className="text-base font-bold text-foreground">Santomeridia</div>
+              <div className="text-base font-bold text-foreground">Santomeridia Research Labs </div>
+                 <div className="text-xs text-muted-foreground">Where Innovation Meets Impact</div>
             </div>
           </Link>
 
